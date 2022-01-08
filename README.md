@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/Captainjacksparrow0433">ᴅͥᴇ�
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainjacksparrow0433/LXR-v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-Negative1/JACKI-SER) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Captainjackspar/Jacki-QR)
   
